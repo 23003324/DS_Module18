@@ -105,7 +105,8 @@ return(min_cost);
 
 ## Output:
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/ec66f784-57b1-4ee8-aee8-8f4715062c8b)
+
 
 
 ## Result:
